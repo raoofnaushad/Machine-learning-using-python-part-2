@@ -1,6 +1,7 @@
 
-#Machine Learning using Python
-##Part-2
+Machine Learning using Python
+Part-2
+
 Before going to the actual machine learning, let us know some of the python tools and libraries that help us in building a machine learning model.
 Data exploration and Analysis
 For data exploration and analysis in python we use the below libraries.
